@@ -1,0 +1,18 @@
+.header,.hero,.body,.bar,.footer{
+    background-color:rgb(18, 154, 109) ;
+    margin-bottom: 10px;
+}  
+.box{
+    margin: 10px 0;
+    background-color: rgb(228, 146, 174);
+    height: 80px;
+    font-size: 20px;
+
+} 
+.red{
+    background-color: blueviolet;
+}
+
+.five{
+    background-color: aquamarine;
+}
